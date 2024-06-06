@@ -1,0 +1,74 @@
+baseURL = 'https://heidiali.github.io/'
+title = 'heidi'
+theme = 'hugo-coder'
+
+languageCode = 'en-us'
+defaultcontentlanguage = "en"
+googleAnalytics = ""
+enableRobotsTXT = true
+
+
+paginate = 20
+
+[services]
+[services.disqus]
+disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Heidi Ali-Kippari"
+  info = "Full Stack Duck"
+  description = "Heidi's about website"
+  keywords = "blog,developer,personal"
+  avatarurl = "/images/duck.jpg"
+  #gravatar = "heidi.alikippari@gmail.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2024
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/heidiali/"
+[[params.social]]
+  name = "Gitlab"
+  icon = "fa-brands fa-gitlab fa-2x"
+  weight = 2
+  url = "https://gitlab.com/heidiali/"
+
+
+# Menu links
+[[menu.main]]
+  name = "CONTACT"
+  weight = 1
+  url  = "contact/"
+[[menu.main]]
+  name = "ABOUT"
+  weight = 2
+  url = "about/"
+[[menu.main]]
+  name = "CV"
+  weight = 2
+  url = "cv/"
