@@ -1,13 +1,12 @@
 baseURL = 'https://heidiali.github.io/'
-title = 'heidi'
+title = 'Heidi Ali-Kippari'
 theme = 'hugo-coder'
 
 languageCode = 'en-us'
 defaultcontentlanguage = "en"
 googleAnalytics = ""
 enableRobotsTXT = true
-
-
+enableEmoji = true
 paginate = 20
 
 [services]
@@ -30,6 +29,7 @@ style = "github-dark"
   favicon_16 = "/img/favicon-16x16.png"
 
   since = 2024
+  dateFormat = "January 2, 2006"
 
   enableTwemoji = true
 
@@ -57,7 +57,11 @@ style = "github-dark"
   icon = "fa-brands fa-gitlab fa-2x"
   weight = 2
   url = "https://gitlab.com/heidiali/"
-
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/heidi-ali-kippari/"
 
 # Menu links
 [[menu.main]]
