@@ -18,10 +18,10 @@ style = "github-dark"
 
 [params]
   author = "Heidi Ali-Kippari"
-  info = "Full Stack Duck"
-  description = "Heidi's about website"
+  info = "Full Stack Developer"
+  description = "Heidi's cv/about website"
   keywords = "blog,developer,personal"
-  avatarurl = "/images/duck.jpg"
+  avatarurl = "/images/florian-olivo-4hbJ-eymZ1o-unsplash.jpg"
   #gravatar = "heidi.alikippari@gmail.com"
 
   faviconSVG = "/img/favicon.svg"
