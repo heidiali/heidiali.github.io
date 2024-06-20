@@ -4,6 +4,8 @@ date = 2024-06-06T15:25:09+03:00
 draft = false
 +++
 
+[Click here to view my full CV](https://heidiali.github.io/assets/docs/Ali-Kippari_CV_public.pdf)
+
 ## Experience
 
 **Software Designer**
@@ -82,8 +84,6 @@ B.Sc. in Biology
 **Tools and Frameworks:** Git, AWS; Azure, Linux, Angular, React
 
 **Languages:** Finnish (native), English (working proficiency), Swedish (good), French (survival)
-
-[Click here to view my full CV](./assets/docs/Ali-Kippari_CV_public.pdf)
 
 
 __Updated__: June 10, 2024
