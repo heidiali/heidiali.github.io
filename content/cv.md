@@ -4,7 +4,7 @@ date = 2024-06-06T15:25:09+03:00
 draft = false
 +++
 
-[Click here to view my full CV](https://heidiali.github.io/assets/docs/Ali-Kippari_CV_public.pdf)
+<a href="/assets/docs/Ali-Kippari_CV_public.pdf">Click here to view my full CV</a>
 
 ## Experience
 
